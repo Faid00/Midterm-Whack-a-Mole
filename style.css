@@ -11,7 +11,7 @@ body {
     align-items: center;
 }
 
-.home-btn {
+.index-btn {
     position: absolute;
     top: 20px;
     left: 20px;
@@ -26,7 +26,7 @@ body {
     transition: 0.2s;
 }
 
-.home-btn:hover {
+.index-btn:hover {
     background: #cc0000;
 }
 
@@ -148,3 +148,4 @@ button:hover {
     font-weight: bold;
     border-radius: 8px;
 }
+
